@@ -1,4 +1,3 @@
-/* General Styling & VIBRANCY */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: linear-gradient(135deg, #f6d365 0%, #fda085 100%); /* Vibrant Background */
@@ -26,7 +25,6 @@ body {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Input Form Styling */
 .input-section h2, .tracker-section h2 {
     color: #4CAF50; /* A pop of color */
     border-bottom: 2px solid #eee;
@@ -54,7 +52,6 @@ body {
     box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
 }
 
-/* Button Styling (Reusable) */
 .btn {
     padding: 10px 15px;
     border: none;
@@ -117,7 +114,6 @@ body {
     cursor: pointer;
 }
 
-/* Status Button Styling */
 .status-btn {
     padding: 8px 12px;
     border: none;
@@ -149,4 +145,5 @@ body {
 
 .delete-btn:hover {
     background-color: #5a6268;
+
 }
